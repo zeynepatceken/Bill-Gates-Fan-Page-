@@ -21,7 +21,7 @@
 - **JavaScript**: İletişim formunun yapısını sağlamak için minimal kullanım (henüz işlevsel değil).
 
 
-##Ekran Görüntüsü
+
 
 
 
